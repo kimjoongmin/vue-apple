@@ -68,7 +68,7 @@
   </div> -->
   <div>
     <img src="./assets/room0.jpg" class="room-img">
-    <h4 :style="hands" @click="modalWrap = true">{{product[0]}} 원룸11</h4>
+    <h4 :style="hands" @click="modalWrap = true">{{product[0]}} 111원룸11</h4>
     <p>{{price[0]}} 만원</p>
     <button @click="Num[0]+=100">허위매물신고</button> <span>신고수 : {{Num[0]}}</span>
   </div>
