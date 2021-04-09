@@ -95,7 +95,7 @@ export default {
       modalWrap : false,
       product: ['강남구','강북구','마포구'],
       price: [100,200,300],
-      menuName: ['Home','About','Room','Board1'],
+      menuName: ['Home','About','Room','Board12'],
       Num: [0,0,0],
       txtRed: 'color:red',
       hands: 'cursor:pointer',
