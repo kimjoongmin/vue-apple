@@ -2,7 +2,7 @@
   <!-- 모달 -->
   <div class="black-bg" v-if="modalWrap == true" >
     <div class="white-bg">
-      <h4>상세페이지 제목11111</h4>
+      <h4>상세페이지 제목~~~</h4>
       <p>상세페이지 내용</p>
       <button @click="modalWrap = false">닫기</button>
     </div>
